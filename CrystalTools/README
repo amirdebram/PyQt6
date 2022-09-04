@@ -6,3 +6,8 @@ It also has the ability to check if there are files in the print spooler and pro
 
 In order to for the program to be functional you need to add a ssh client:
 Name, Host, Port, Username, Password and Timeout.
+
+
+Requirements
+pip install PyQt6
+pip install paramiko
