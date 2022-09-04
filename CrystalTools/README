@@ -1,0 +1,8 @@
+Crystal Tools
+
+This project was made to give a Window user the ability to interact with Linux CUPS Printing.
+It has the ability to VIEW, ADD and DELETE printers from CUPS.
+It also has the ability to check if there are files in the print spooler and prompt you to clear the files.
+
+In order to for the program to be functional you need to add a ssh client:
+Name, Host, Port, Username, Password and Timeout.
