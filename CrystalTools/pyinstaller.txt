@@ -1,0 +1,1 @@
+pyinstaller -w -i=./res/Icons/tool-box.png application.py
